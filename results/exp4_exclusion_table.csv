@@ -1,0 +1,6 @@
+pool_id,kappa,s_excl,s_observed,verdict,label,ref_s_excl,error_excl
+ETH_UNIV3_WETH_USDC_030,0.00175,0.9822815582343932,0.9800004841506981,open (capital-sufficient),open_if_capital_suff,0.9823,1.8441765606724836e-05
+ETH_UNIV3_WETH_USDC_005,0.0005,0.9921968439815784,1.059999059401328,excluded (no capital helps),excluded_all_capital,0.9922,3.156018421601736e-06
+BASE_UNIV3_WETH_USDC_005,0.0005,0.9921968439815784,1.049997657324,excluded (no capital helps),excluded_all_capital,0.9922,3.156018421601736e-06
+BASE_AERO_WETH_USDC,0.000476,0.9924457411405219,1.1500016512801123,excluded (no capital helps),excluded_all_capital,0.9924,4.574114052191547e-05
+BASE_PANCAKE_WETH_USDC_001,0.0003,0.9944302272593969,1.1800093433102152,excluded (no capital helps),excluded_all_capital,0.9944,3.0227259396942152e-05

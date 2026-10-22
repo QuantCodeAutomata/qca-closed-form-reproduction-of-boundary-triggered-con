@@ -1,0 +1,2 @@
+n_states,M,W_max,iterations,converged,L_range,mu_max_dev,mean_V,max_residual
+25,5,4,28,True,1.3969838619232178e-07,9.275279279267946e-08,-0.0007733729301409426,6.55033836338692e-08
